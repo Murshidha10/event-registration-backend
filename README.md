@@ -43,8 +43,8 @@ You need **Python 3.10 or higher**.
 **1. Clone the repository and go into the folder**
 
 ```bash
-git clone <your-repository-link>
-cd student-api
+git clone https://github.com/Murshidha10/event-registration-backend.git
+cd event-registration-backend
 ```
 
 **2. Create and activate a virtual environment**

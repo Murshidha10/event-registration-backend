@@ -25,7 +25,7 @@ Built with **Python**, **FastAPI** and **SQLite**.
 ## Project Structure
 
 ```
-student-api/
+event-registration-backend/
 ├── main.py             # the whole API
 ├── requirements.txt    # Python packages needed
 ├── .gitignore
